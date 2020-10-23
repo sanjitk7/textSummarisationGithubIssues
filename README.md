@@ -1,7 +1,5 @@
 # Text Summarization of GitHub Issues
 
-This core program is originally from [ths medium article's tutorial](https://medium.com/@hamelhusain/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8) to get started on GRU RNNs in NLP.
-
 ## What is it?
 
 Using a dataset of GitHub Issues' titles, bodies and URLs, a Sequence to Sequence model is constructed with GRUs to summarize the GitHub issue body. The machine generated title is better and more compact than the actual user defined title.
